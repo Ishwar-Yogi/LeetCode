@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0001-two-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishwar-Yogi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishwar-Yogi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishwar-Yogi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

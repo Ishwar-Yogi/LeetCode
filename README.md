@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0001-two-sum) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1470-shuffle-the-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |

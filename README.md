@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1470-shuffle-the-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ishwar-Yogi/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Ishwar-Yogi/LeetCode/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Ishwar-Yogi/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
